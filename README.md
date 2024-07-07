@@ -1,7 +1,5 @@
 # Calculateur IMC
 
-![IMG_1064](https://github.com/eureene/imc/assets/174897130/51f7ad3e-07a6-4346-a418-8563a5144585)
-
 
 ## Description
 
@@ -13,6 +11,15 @@ Le Calculateur IMC est une application mobile simple qui permet aux utilisateurs
 - Affichage des catégories d'IMC (Poids insuffisant, Poids normal, Surpoids, Obésité, Obésité extrême).
 - Interface utilisateur intuitive et facile à utiliser.
 - Résultats affichés avec un indicateur visuel pour faciliter la compréhension.
+
+## Installation
+
+1. Clonez ce dépôt sur votre machine locale :
+   ```bash
+   git clone https://github.com/votre-utilisateur/calculateur-imc.git
+
+
+![IMG_1064](https://github.com/eureene/imc/assets/174897130/51f7ad3e-07a6-4346-a418-8563a5144585)
 
 
 
